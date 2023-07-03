@@ -1,0 +1,16 @@
+
+#myTab {
+    width: 76%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tab-content {
+    width: 76%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.me-md-2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
